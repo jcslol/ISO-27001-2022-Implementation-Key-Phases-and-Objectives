@@ -1,5 +1,5 @@
-# ISO-27001-2022-Implementation-Key-Phases-and-Objectives
-This repository provides a brief guide to understanding the PDCA Cycle for implementing an Information Security Management System (ISMS) in compliance with ISO 27001:2022. It covers the key phases, objectives, and core changes from ISO 27001:2017 to ISO 27001:2022.
+# PDCA Cycle (fundamental framework in ISO 27001)
+This repository provides a brief guide to understanding the PDCA Cycle for implementing an Information Security Management System (ISMS) in compliance with ISO 27001. It covers the key phases, objectives, and core changes from ISO 27001:2017 to ISO 27001:2022.
 
 # Overview of the PDCA Cycle
 The Plan-Do-Check-Act (PDCA) cycle is a fundamental framework for implementing and continually improving ISMS under ISO 27001:2022.
