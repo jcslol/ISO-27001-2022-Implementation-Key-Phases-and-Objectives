@@ -1,4 +1,4 @@
-# PDCA Cycle (fundamental framework in ISO 27001)
+# PDCA Cycle: A Fundamental Framework in ISO 27001
 This repository provides a brief guide to understanding the PDCA Cycle for implementing an Information Security Management System (ISMS) in compliance with ISO 27001. It covers the key phases, objectives, and core changes from ISO 27001:2017 to ISO 27001:2022.
 
 # Overview of the PDCA Cycle
